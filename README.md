@@ -22,5 +22,6 @@ flutter run
 - Bagian kode/fitur yang dibantu AI: 
   - Membantu dalam pembuatan UI sederhana
   - Memperbaiki error pada kode
+  - Membantu mem-build .apk tanpa Android Studio
 - Pernyataan: 
   "Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini"
